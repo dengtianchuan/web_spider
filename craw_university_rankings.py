@@ -1,10 +1,9 @@
 #!/usr/bin/python3.5
 # 2017中国最好大学排名定向爬虫
 """
-Created on Mon Oct  9 19:52:19 2017
-
-@author: DONG LONG RUI
+Created on May 24 2017
 """
+
 import requests
 import bs4
 from bs4 import BeautifulSoup
