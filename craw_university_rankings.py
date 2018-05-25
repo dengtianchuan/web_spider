@@ -1,7 +1,7 @@
 #!/usr/bin/python3.5
 # 2017中国最好大学排名定向爬虫
 """
-Created on May 24 2017
+Created on May 24 2018
 """
 
 import requests
